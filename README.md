@@ -23,7 +23,7 @@
 Bitte beachte diese Regeln, um eine angenehme Erfahrung für alle Mitglieder zu gewährleisten. Verstöße gegen diese Regeln können zu Warnungen, temporären Sperren oder dem Ausschluss vom Server führen. Vielen Dank für deine Mitarbeit!
 
 
-# Rollen Infos:
+# Infos über die Rollen:
 
 - **Community:** Die Community-Rolle ist die Standardrolle rolle, die jeder User beim Joinen bekommt.
 
