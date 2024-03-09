@@ -23,6 +23,16 @@
 Bitte beachte diese Regeln, um eine angenehme Erfahrung für alle Mitglieder zu gewährleisten. Verstöße gegen diese Regeln können zu Warnungen, temporären Sperren oder dem Ausschluss vom Server führen. Vielen Dank für deine Mitarbeit!
 
 
+# Rollen Infos:
+
+- **Community:** Die Community-Rolle ist die Standardrolle rolle, die jeder User beim Joinen bekommt.
+
+- **Server Booster:** Die Server Booster Rolle bekommt man, wenn man den Server boostet, die Rolle erlaubt dir externe Emojis/Sticker zu benutzen und eine eigene Farbe.
+
+- **Professional** Diese Rolle kennzeichnet man die leute die sich gut mit Themen auskennen, die Rolle wird nur von Admins vergeben.
+
+- **Admin** Moderieren und verwalten den Server. 
+ 
 
 
 
@@ -37,7 +47,12 @@ Bitte beachte diese Regeln, um eine angenehme Erfahrung für alle Mitglieder zu 
 
 
 
-Mit **** markiere Strings sollten fett geschrieben werden. Nach jeder Regel und nach der Überschrift erfolgt ein Zeilenumbruch.
+
+
+
+
+
+
 
 
 
